@@ -4,6 +4,9 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+ul {
+  list-style-type: none;
+}
 
 .navbar-brand img {
   width: 40%;
@@ -16,3 +19,9 @@ body {
 .navFontSize {
   font-size: 20px;
 }
+
+.presentation {
+  background-image: url(../img/Header-bg.svg) ;
+  background-repeat: no-repeat;
+}
+
