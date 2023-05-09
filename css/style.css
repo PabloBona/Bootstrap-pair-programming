@@ -25,3 +25,12 @@ ul {
   background-repeat: no-repeat;
 }
 
+.list-unstyled li::before {
+  content: url(../img/icons/circle.svg);
+  margin: 0 1.2rem;
+}
+
+.none {
+  display: flex;
+  align-items: center;
+}
